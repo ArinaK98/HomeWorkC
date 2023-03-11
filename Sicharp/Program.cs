@@ -87,3 +87,16 @@
 //     Console.Write($"{i}");
 //     i++;
 // } 
+
+// Console.Clear();
+// Console.Write(" Введите цифру ");
+// // int a = Convert.ToInt32(Console.ReadLine()); 
+// // for (int i = (-1)*a; i <= a; i++)
+// //     Console.Write($"{i}");
+// int a = Convert.ToInt32(Console.ReadLine()), i = (-1)*a; 
+// a = Math.Abs(a); // модуль числа
+// while (i <= a)
+// {
+//     Console.Write($"{i}");
+//     i++;
+// } 
