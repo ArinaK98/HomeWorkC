@@ -1,0 +1,15 @@
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Sicharp3\bin\Debug\net7.0\Sicharp3.exe
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Sicharp3\bin\Debug\net7.0\Sicharp3.deps.json
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Sicharp3\bin\Debug\net7.0\Sicharp3.runtimeconfig.json
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Sicharp3\bin\Debug\net7.0\Sicharp3.dll
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Sicharp3\bin\Debug\net7.0\Sicharp3.pdb
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Sicharp3\obj\Debug\net7.0\Sicharp3.csproj.AssemblyReference.cache
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Sicharp3\obj\Debug\net7.0\Sicharp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Sicharp3\obj\Debug\net7.0\Sicharp3.AssemblyInfoInputs.cache
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Sicharp3\obj\Debug\net7.0\Sicharp3.AssemblyInfo.cs
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Sicharp3\obj\Debug\net7.0\Sicharp3.csproj.CoreCompileInputs.cache
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Sicharp3\obj\Debug\net7.0\Sicharp3.dll
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Sicharp3\obj\Debug\net7.0\refint\Sicharp3.dll
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Sicharp3\obj\Debug\net7.0\Sicharp3.pdb
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Sicharp3\obj\Debug\net7.0\Sicharp3.genruntimeconfig.cache
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Sicharp3\obj\Debug\net7.0\ref\Sicharp3.dll
