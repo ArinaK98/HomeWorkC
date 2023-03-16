@@ -2,7 +2,7 @@
 // Console.Clear();
 // Console.WriteLine("Введите пятизначное число ");
 // string x = Console.ReadLine()!;
-// if (x[0] == x[4] || x[0] == x[4])
+// if (x[1] == x[3] & x[0] == x[4])
 //     Console.WriteLine("палиндром");
 // else
 //     Console.WriteLine("не палиндром");
