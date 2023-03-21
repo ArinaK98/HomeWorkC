@@ -1,0 +1,15 @@
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Sisharp4\bin\Debug\net7.0\Sisharp4.exe
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Sisharp4\bin\Debug\net7.0\Sisharp4.deps.json
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Sisharp4\bin\Debug\net7.0\Sisharp4.runtimeconfig.json
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Sisharp4\bin\Debug\net7.0\Sisharp4.dll
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Sisharp4\bin\Debug\net7.0\Sisharp4.pdb
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Sisharp4\obj\Debug\net7.0\Sisharp4.csproj.AssemblyReference.cache
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Sisharp4\obj\Debug\net7.0\Sisharp4.GeneratedMSBuildEditorConfig.editorconfig
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Sisharp4\obj\Debug\net7.0\Sisharp4.AssemblyInfoInputs.cache
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Sisharp4\obj\Debug\net7.0\Sisharp4.AssemblyInfo.cs
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Sisharp4\obj\Debug\net7.0\Sisharp4.csproj.CoreCompileInputs.cache
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Sisharp4\obj\Debug\net7.0\Sisharp4.dll
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Sisharp4\obj\Debug\net7.0\refint\Sisharp4.dll
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Sisharp4\obj\Debug\net7.0\Sisharp4.pdb
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Sisharp4\obj\Debug\net7.0\Sisharp4.genruntimeconfig.cache
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Sisharp4\obj\Debug\net7.0\ref\Sisharp4.dll
