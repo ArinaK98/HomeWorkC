@@ -1,0 +1,15 @@
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Task7\bin\Debug\net7.0\Task7.exe
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Task7\bin\Debug\net7.0\Task7.deps.json
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Task7\bin\Debug\net7.0\Task7.runtimeconfig.json
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Task7\bin\Debug\net7.0\Task7.dll
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Task7\bin\Debug\net7.0\Task7.pdb
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Task7\obj\Debug\net7.0\Task7.csproj.AssemblyReference.cache
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Task7\obj\Debug\net7.0\Task7.GeneratedMSBuildEditorConfig.editorconfig
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Task7\obj\Debug\net7.0\Task7.AssemblyInfoInputs.cache
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Task7\obj\Debug\net7.0\Task7.AssemblyInfo.cs
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Task7\obj\Debug\net7.0\Task7.csproj.CoreCompileInputs.cache
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Task7\obj\Debug\net7.0\Task7.dll
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Task7\obj\Debug\net7.0\refint\Task7.dll
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Task7\obj\Debug\net7.0\Task7.pdb
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Task7\obj\Debug\net7.0\Task7.genruntimeconfig.cache
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Task7\obj\Debug\net7.0\ref\Task7.dll
