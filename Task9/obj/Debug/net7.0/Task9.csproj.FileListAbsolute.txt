@@ -1,0 +1,15 @@
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Task9\bin\Debug\net7.0\Task9.exe
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Task9\bin\Debug\net7.0\Task9.deps.json
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Task9\bin\Debug\net7.0\Task9.runtimeconfig.json
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Task9\bin\Debug\net7.0\Task9.dll
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Task9\bin\Debug\net7.0\Task9.pdb
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Task9\obj\Debug\net7.0\Task9.csproj.AssemblyReference.cache
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Task9\obj\Debug\net7.0\Task9.GeneratedMSBuildEditorConfig.editorconfig
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Task9\obj\Debug\net7.0\Task9.AssemblyInfoInputs.cache
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Task9\obj\Debug\net7.0\Task9.AssemblyInfo.cs
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Task9\obj\Debug\net7.0\Task9.csproj.CoreCompileInputs.cache
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Task9\obj\Debug\net7.0\Task9.dll
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Task9\obj\Debug\net7.0\refint\Task9.dll
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Task9\obj\Debug\net7.0\Task9.pdb
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Task9\obj\Debug\net7.0\Task9.genruntimeconfig.cache
+D:\РАЗРАБОТЧИК\C#\HomeWorkC\Task9\obj\Debug\net7.0\ref\Task9.dll
